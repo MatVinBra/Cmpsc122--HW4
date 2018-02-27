@@ -1,3 +1,5 @@
+class Person(name):
     def __init__(self, name):
         self.name = name
-        
+    while(True):
+        print("Joey")
